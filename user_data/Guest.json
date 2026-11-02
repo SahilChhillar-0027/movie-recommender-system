@@ -1,0 +1,14 @@
+{
+  "name": "Guest",
+  "history": [
+    "Toy Story"
+  ],
+  "favorites": [],
+  "mood_history": [
+    {
+      "mood": "\ud83d\ude04 Happy",
+      "movie": "Toy Story",
+      "time": "2026-11-02T00:49:27.201367"
+    }
+  ]
+}

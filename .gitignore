@@ -1,0 +1,9 @@
+venv*
+data/
+model/
+__pycache__/
+*.pyc
+.DS_Store
+*.pkl
+user_data/*
+!user_data/Guest.json
